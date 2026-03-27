@@ -1,0 +1,9 @@
+streamlit>=1.30.0
+python-pptx
+PyPDF2
+trafilatura
+openai
+pydantic
+pydantic-settings
+python-dotenv
+requests
